@@ -1,0 +1,39 @@
+#Profundizando en los sistemas de numeración
+
+#Sistema decimal
+a = 10
+print(f"El valor de a es: {a}")
+
+
+#Sistema binario
+b = 0b1010
+print(f"El valor de b es: {b}")
+
+
+#Sistema octal
+c = 0o12
+print(f"El valor de c es: {c}")
+
+#Sistema hexadecimal
+d = 0xA
+print(f"El valor de d es: {d}")
+
+#Base decimal
+e = 10
+print(f"El valor de e es: {e}")
+
+#Base binaria
+f = 0b1010
+print(f"El valor de f es: {f}")
+
+#Base octal
+g = 0o12
+print(f"El valor de g es: {g}")
+
+#Base hexadecimal
+h = 0xA
+print(f"El valor de h es: {h}")
+
+#Base 5 sus valores son de 0 a 4
+i = int("10", 5)
+print(f"i = Base 5: {i}")
