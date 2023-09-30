@@ -1,4 +1,4 @@
-package utn.estudiantes.servicio;
+package utn.estudiante.servicio;
 
 import utn.estudiante.modelo.Estudiante;
 
