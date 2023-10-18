@@ -15,7 +15,7 @@
 | Fernandez Gisela | Semana 1      |COMPLETADA✔️|  | 
 | Giunta Pilar     | Semana 2      |COMPLETADA✔️|   | 
 | Garcia Fernando  | Semana 3      |COMPLETADA✔️|   | 
-| Leone Franco     | Semana 4      |       |   | 
+| Leone Franco     | Semana 4      |COMPLETADA✔️|   | 
 | Mansilla Jimena  | Semana 5      |       |   | 
 | Castro Agustina  | Semana 6      |       |   |  
 | Dasilva Daniel   | Semana 7      |       |   | 
