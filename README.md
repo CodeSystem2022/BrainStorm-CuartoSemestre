@@ -16,7 +16,7 @@
 | Giunta Pilar     | Semana 2      |COMPLETADA✔️|   | 
 | Garcia Fernando  | Semana 3      |COMPLETADA✔️|   | 
 | Leone Franco     | Semana 4      |COMPLETADA✔️|   | 
-| Mansilla Jimena  | Semana 5      |       |   | 
+| Mansilla Jimena  | Semana 5      |COMPLETADA✔️|   | 
 | Castro Agustina  | Semana 6      |       |   |  
 | Dasilva Daniel   | Semana 7      |       |   | 
  
