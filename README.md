@@ -17,7 +17,7 @@
 | Garcia Fernando  | Semana 3      |COMPLETADA✔️|   | 
 | Leone Franco     | Semana 4      |COMPLETADA✔️|   | 
 | Mansilla Jimena  | Semana 5      |COMPLETADA✔️|   | 
-| Castro Agustina  | Semana 6      |       |   |  
+| Castro Agustina  | Semana 6      |En proceso... |En respuesta a complicaciones y diferencia de tiempos entre los integrantes del grupo, se realizaran las asignaciones de todas las tareas atrasadas|  
 | Dasilva Daniel   | Semana 7      |       |   | 
  
 
